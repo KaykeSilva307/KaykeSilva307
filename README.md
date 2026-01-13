@@ -78,7 +78,9 @@ Aplicação inspirada no Trello para organização de tarefas, desenvolvida com 
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaykesilva307&show_icons=true&theme=dark)
+- 📌 Projetos pessoais focados em aprendizado e boas práticas
+- 🚀 Evolução constante em Frontend e Fullstack
+- 🔧 Código versionado, documentado e organizado
 
 
 ---
