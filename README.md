@@ -78,17 +78,13 @@ Aplicação inspirada no Trello para organização de tarefas, desenvolvida com 
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaykeSilva307\&show_icons=true\&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaykeSilva307\&layout=compact\&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=KaykeSilva307\&theme=dark)
 
 ---
 
 ## 📫 Contato
 
-🔗 **LinkedIn:** [https://linkedin.com/in/SEU_LINKEDIN](https://linkedin.com/in/SEU_LINKEDIN)
-📧 **Email:** [seuemail@email.com](mailto:seuemail@email.com)
-
----
-
-> "Em busca de uma oportunidade de estágio para aplicar conhecimentos, aprender com o time e evoluir como desenvolvedor."
+🔗 **LinkedIn:** [https://www.linkedin.com/in/kayke-silva-922461352/](https://www.linkedin.com/in/kayke-silva-922461352/)
+📧 **Email:** [kaykestudy307@gmail.com](mailto:kaykestudy307@gmail.com)
