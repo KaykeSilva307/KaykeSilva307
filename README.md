@@ -6,10 +6,10 @@
 ---
 
 ## 🎯 Perfil Profissional (para recrutadores)
+ 
+Sou estudante de Ciência da Computação com foco em **desenvolvimento Fullstack JS**, atualmente com maior domínio em **Frontend moderno** utilizando **React + TypeScript + Tailwind CSS**. Desenvolvo projetos práticos para consolidar fundamentos de arquitetura, componentização, controle de estado e integração com serviços externos como **Firebase**.
 
-Sou estudante de Ciência da Computação com foco em **desenvolvimento Fullstack**, atualmente com maior domínio em **Frontend moderno** utilizando **React + TypeScript + Tailwind CSS**. Desenvolvo projetos práticos para consolidar fundamentos de arquitetura, componentização, controle de estado e integração com serviços externos como **Firebase**.
-
-Tenho perfil **mão na massa**, facilidade para aprender novas tecnologias e interesse em ambientes onde possa evoluir com feedback, boas práticas e desafios reais.
+Facilidade para aprender novas tecnologias e interesse em estudar sobre aquilo que eu ainda não domino, sempre em busca de melhorar como profissional
 
 ---
 
